@@ -1,0 +1,2 @@
+# beautycontetxtgenerator
+test version
